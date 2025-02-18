@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
-
+Arrays.iml
 
 ### Eclipse ###
 .apt_generated
